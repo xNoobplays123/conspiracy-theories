@@ -94,3 +94,10 @@ p {
 .holocaust:hover {
     background-image: url(holocaust-2.png);
 }
+
+/* Footer */
+
+.fa {
+    color: white;
+    font-size: 25px;
+}
