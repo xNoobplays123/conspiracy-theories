@@ -1,3 +1,13 @@
+/* List select */
+
+#list {
+    color: white;
+    margin-top: 25px;
+    margin-left: 1150px;
+}
+
+/* Body */
+
 body {
     text-align: center;
     background-color: black;
@@ -7,11 +17,12 @@ body {
 
 #main-title {
     font-size: 60px;
+    margin-top: 20px;
 }
 
 #title {
     font-size: 60px;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 100px;
 }
 
@@ -76,7 +87,7 @@ p {
     height: 398px;
     background-image: url(moonlanding.png);
     transition: 1.5s;
-    margin-left: 50px;
+    margin-left: 25px;
 }
 
 .moonlanding:hover {
