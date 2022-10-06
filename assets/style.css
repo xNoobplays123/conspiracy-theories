@@ -1,0 +1,96 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Verdana, arial;
+}
+
+#main-title {
+    font-size: 60px;
+}
+
+#title {
+    font-size: 60px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+#background {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 1000px;
+}
+
+p {
+    font-size: 20px;
+}
+
+/* Button */
+
+#back-button {
+    font-size: 25px;
+    background-color: yellow;
+    border-radius: 16px;
+    transition: 0.8s;
+    margin-top: 100px;
+}
+
+#back-button:hover {
+    background-color: cyan;
+    border-radius: 20px;
+}
+
+/* Conspiracy */
+
+.conspiracy {
+    margin-top: 125px;
+    display: flex;
+}
+
+.twintowers {
+    width: 600px;
+    height: 398px;
+    background-image: url(twintowers.png);
+    transition: 1.5s;
+    margin-left: 25px;
+}
+
+.twintowers:hover {
+    background-image: url(twintowers-2.png);
+}
+
+.flatearth {
+    width: 600px;
+    height: 398px;
+    background-image: url(flatearth.png);
+    transition: 1.5s;
+    margin-left: 50px;
+}
+
+.flatearth:hover {
+    background-image: url(flatearth-2.png);
+}
+
+.moonlanding {
+    width: 600px;
+    height: 398px;
+    background-image: url(moonlanding.png);
+    transition: 1.5s;
+    margin-left: 50px;
+}
+
+.moonlanding:hover {
+    background-image: url(moonlanding-2.png);
+}
+
+.holocaust {
+    width: 600px;
+    height: 398px;
+    background-image: url(holocaust.png);
+    transition: 1.5s;
+    margin-left: 50px;
+}
+
+.holocaust:hover {
+    background-image: url(holocaust-2.png);
+}
