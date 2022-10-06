@@ -1,9 +1,8 @@
-/* List select */
+/* P */
 
-#list {
-    color: white;
-    margin-top: 25px;
-    margin-left: 1150px;
+p {
+    margin-top: 120px;
+    margin-bottom: 120px;
 }
 
 /* Body */
@@ -28,7 +27,6 @@ body {
 
 #background {
     margin-top: 50px;
-    margin-bottom: 100px;
     width: 1000px;
 }
 
@@ -109,7 +107,7 @@ p {
 /* Footer */
 
 .footer {
-    padding-top: 40px;
+    padding-top: 30px;
     background-color: black;
     color: white;
     font-size: 20px;
