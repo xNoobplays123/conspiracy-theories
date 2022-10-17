@@ -1,8 +1,14 @@
 /* P */
 
 p {
-    margin-top: 120px;
-    margin-bottom: 120px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#bigger {
+    font-size: 25px;
+    margin-bottom: 100px;
 }
 
 /* Body */
@@ -22,16 +28,12 @@ body {
 #title {
     font-size: 60px;
     margin-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 #background {
     margin-top: 50px;
     width: 1000px;
-}
-
-p {
-    font-size: 20px;
 }
 
 /* Button */
@@ -68,16 +70,16 @@ p {
     background-image: url(twintowers-2.png);
 }
 
-.flatearth {
+.pope {
     width: 600px;
     height: 398px;
-    background-image: url(flatearth.png);
+    background-image: url(pope.png);
     transition: 1.5s;
     margin-left: 50px;
 }
 
-.flatearth:hover {
-    background-image: url(flatearth-2.png);
+.pope:hover {
+    background-image: url(pope-2.png);
 }
 
 .moonlanding {
