@@ -114,3 +114,12 @@ body {
     color: white;
     font-size: 20px;
 }
+
+/* Holocaust */
+
+img {
+    width: 350px;
+    display: block;
+    margin-left: 125px;
+    margin-right: 125px;
+}
