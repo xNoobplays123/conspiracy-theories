@@ -127,5 +127,9 @@ img {
     width: 350px;
     display: block;
     margin-left: 125px;
-    margin-right: 125px;
+    margin-right: auto;
+}
+
+#holocaust-text {
+    text-align: center;
 }
