@@ -128,7 +128,7 @@ body {
     float: right;
 }
 
-img {
+.auswitch img{
     width: 350px;
     margin-left: 125px;
     margin-right: auto;
