@@ -115,7 +115,7 @@ body {
 /* Footer */
 
 .footer {
-    padding-top: 30px;
+    margin-top: 125px;
     background-color: black;
     color: white;
     font-size: 20px;
@@ -123,13 +123,21 @@ body {
 
 /* Holocaust */
 
-img {
-    width: 350px;
+.auswitch {
     display: block;
-    margin-left: 125px;
-    margin-right: auto;
+    float: right;
 }
 
-#holocaust-text {
+img {
+    width: 350px;
+    margin-left: 125px;
+    margin-right: auto;
+    margin-top: 20px;
+    float: left;
+}
+
+.holocaust-text {
     text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
 }
