@@ -118,12 +118,13 @@ body {
 
 .conspiracy {
     margin-top: 125px;
-    display: block;
+    display: flex;
 }
 
 @media (max-width: 767px) {
     .conspiracy {
         margin-top: 60px;
+        display: block;
     }
 }
 
